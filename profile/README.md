@@ -13,10 +13,10 @@
  
 Webㅤㅤㅤㅤ:ㅤㅤ김언수ㅤㅤ:ㅤㅤReact, javascript
 
-Serverㅤㅤ:ㅤㅤ김종윤ㅤㅤ:ㅤㅤSpringBoot, java
+Serverㅤㅤㅤ:ㅤㅤ김종윤ㅤㅤ:ㅤㅤSpringBoot, java
 
 iOSㅤㅤㅤㅤ:ㅤㅤ이민규ㅤㅤ:ㅤㅤSwift, SwiftUI
 
-Androidㅤ:ㅤㅤ조가연ㅤㅤ:ㅤㅤkotlin
+Androidㅤㅤ:ㅤㅤ조가연ㅤㅤ:ㅤㅤkotlin
 
 AIㅤㅤㅤㅤㅤ:ㅤㅤ모성현ㅤㅤ:ㅤㅤPython
