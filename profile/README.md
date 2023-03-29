@@ -10,8 +10,13 @@
 를 쉽고 빠르게 배울 수 있게 해주는 ai PT 선생님 입니다!
 
 ### GymPTI : Team
+ 
+Web     :  김언수  :  React, javascript
 
-|               |           [iOS](https://github.com/GymPTI/GymPTI-iOS)            |             [Front-end](https://github.com/GymPTI/GymPTI-Web)              |                 [Android](https://github.com/GymPTI/GymPTI-Android)                 | [iOS](https://github.com/EAT-IT-DOG/eatitdog-ios) 
-|    People     |             이민규             |             임동현, 강보민, 김성주              |                     김태환                     |                        이석호                        |   김영성   |
-|    Skills     | SpringBoot (Java), JPA, MySQL, AWS EC2 | React, TypeScript, React-query, Recoil | Kotlin, Clean Architecture, MVVM, Retrofit2 |        Swift, SwiftUI, Alamofire, MV State        |         |
-| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                |                       Xcode                       |  Figma  |
+Server  :  김종윤  :  SpringBoot, java
+
+iOS     :  이민규  :  Swift, SwiftUI
+
+Android :  조가연  :  kotlin
+
+AI      :  모성현  :  Python
