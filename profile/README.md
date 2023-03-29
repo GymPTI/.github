@@ -11,12 +11,12 @@
 
 ### GymPTI : Team
  
-Web     :  김언수  :  React, javascript
+Webㅤㅤㅤㅤ:ㅤㅤ김언수ㅤㅤ:ㅤㅤReact, javascript
 
-Server  :  김종윤  :  SpringBoot, java
+Serverㅤㅤ:ㅤㅤ김종윤ㅤㅤ:ㅤㅤSpringBoot, java
 
-iOS     :  이민규  :  Swift, SwiftUI
+iOSㅤㅤㅤㅤ:ㅤㅤ이민규ㅤㅤ:ㅤㅤSwift, SwiftUI
 
-Android :  조가연  :  kotlin
+Androidㅤ:ㅤㅤ조가연ㅤㅤ:ㅤㅤkotlin
 
-AI      :  모성현  :  Python
+AIㅤㅤㅤㅤㅤ:ㅤㅤ모성현ㅤㅤ:ㅤㅤPython
