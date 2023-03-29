@@ -20,8 +20,3 @@ iOS     :  이민규  :  Swift, SwiftUI
 Android :  조가연  :  kotlin
 
 AI      :  모성현  :  Python
-
-|:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
-|    People     |         우준성 (Leader)          |             임동현, 강보민, 김성주              |                     김태환                     |                        이석호                        |   김영성   |
-|    Skills     | SpringBoot (Java), JPA, MySQL, AWS EC2 | React, TypeScript, React-query, Recoil | Kotlin, Clean Architecture, MVVM, Retrofit2 |        Swift, SwiftUI, Alamofire, MV State        |         |
-| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                |                       Xcode                       |  Figma  |
