@@ -10,15 +10,10 @@
 를 쉽고 빠르게 배울 수 있게 해주는 ai PT 선생님 입니다!
 
 ### GymPTI : Team
- 
-Webㅤㅤㅤㅤ:ㅤㅤ김언수ㅤㅤ:ㅤㅤReact, javascript
+대구소프트웨어고등학교의 2학년으로 구성된 나르샤 프로젝트 개발팀입니다.
 
-Serverㅤㅤㅤ:ㅤㅤ김종윤ㅤㅤ:ㅤㅤSpringBoot, java
-
-iOSㅤㅤㅤㅤ:ㅤㅤ이민규ㅤㅤ:ㅤㅤSwift, SwiftUI
-
-Androidㅤㅤ:ㅤㅤ조가연ㅤㅤ:ㅤㅤkotlin
-
-AIㅤㅤㅤㅤㅤ:ㅤㅤ모성현ㅤㅤ:ㅤㅤPython
-
-DB         :             :   Mysql
+|               |           [Back-end](https://github.com/)            |             [Front-end](https://github.com/              |                 [Android](https://github.com/)                 | [iOS](https://github.com/) | [Design](https://www.figma.com/)  |
+|:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
+|    People     |         김종윤 (Leader)          |             김언수              |                     조가연                     |                       이민규                        |   조가연, 김언수, 모성현   |
+|    Skills     | SpringBoot, MySQL, AWS EC2 | React | Kotlin |        Swift, SwiftUI, Alamofire, MVI, LinkNavigator       |         |
+| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                |                       Xcode                       |  Figma  |
