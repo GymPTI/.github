@@ -16,4 +16,4 @@
 |:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
 |    People     |         김종윤 (Leader)          |             김언수              |                     조가연                     |                       이민규                        |   팀원 전부   |
 |    Skills     | SpringBoot, MySQL, AWS EC2 | React | Kotlin |        Swift, SwiftUI, Alamofire, MVI, LinkNavigator       |         |
-| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                | Figma                      Xcode                       |  Figma  |
+| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                |                      Xcode                       |  Figma  |
