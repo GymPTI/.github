@@ -20,3 +20,5 @@ iOSㅤㅤㅤㅤ:ㅤㅤ이민규ㅤㅤ:ㅤㅤSwift, SwiftUI
 Androidㅤㅤ:ㅤㅤ조가연ㅤㅤ:ㅤㅤkotlin
 
 AIㅤㅤㅤㅤㅤ:ㅤㅤ모성현ㅤㅤ:ㅤㅤPython
+
+DB         :             :   Mysql
