@@ -14,6 +14,6 @@
 
 |               |           [Back-end](https://github.com/)            |             [Front-end](https://github.com/              |                 [Android](https://github.com/)                 | [iOS](https://github.com/) | [Design](https://www.figma.com/)  |
 |:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
-|    People     |         김종윤 (Leader)          |             김언수              |                     조가연                     |                       이민규                        |   조가연, 김언수, 모성현   |
+|    People     |         김종윤 (Leader)          |             김언수              |                     조가연                     |                       이민규                        |   팀원 전부   |
 |    Skills     | SpringBoot, MySQL, AWS EC2 | React | Kotlin |        Swift, SwiftUI, Alamofire, MVI, LinkNavigator       |         |
-| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                |                       Xcode                       |  Figma  |
+| Develop Tools |         Intellij IDEA         |           Visual Studio Code           |               Android Studio                | Figma                      Xcode                       |  Figma  |
