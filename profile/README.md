@@ -1,12 +1,14 @@
-## GymPTI : 나만의 Ai pt선생님
+## 짐BTI : 당신의 운동 MBTI는?
 
-## GymPTI란?
+PROJECT NAME : GymPTI
 
-운동을 시작한 사람들이 가장 어려워 하는 루틴 관리와 자세 교정을 해주는
+## 짐BTI란?
 
-Ai로 만들어진 pt선생님을 만날 수 있는 서비스 입니다!
+운동 루틴을 직접 짜는 것이 어려운 사람들을 위해 
 
-## GymPTI : Team
+MBTI 검사처럼 당신에게 딱 맞는 운동 루틴을 짜주는 서비스!
+
+## 짐BTI : Team
 
 |               |           [Back-end](https://github.com/GymPTI/GymPTI-Server)            |             [Front-end](https://github.com/GymPTI/GymPTI-Web)            |                 [Android](https://github.com/GymPTI/GymPTI-Android)                 | [iOS](https://github.com/GymPTI/GymPTI-iOS) | [Design](https://www.figma.com/)  |
 |:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
