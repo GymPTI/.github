@@ -1,6 +1,6 @@
-## 짐BTI
+## PROJECT : GymPTI
 
-개발 프로젝트 이름 : GymPTI
+배포 이름 : 
 
 ## 짐BTI란?
 
