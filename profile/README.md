@@ -1,6 +1,6 @@
 ## 짐BTI : 당신의 운동 MBTI는?
 
-PROJECT NAME : GymPTI
+개발 프로젝트 이름 : GymPTI
 
 ## 짐BTI란?
 
