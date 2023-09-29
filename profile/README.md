@@ -1,14 +1,10 @@
-## PROJECT : GymPTI
-
-배포 이름 : 짐BTI
-
-## GymPTI (짐BTI)
+## 서비스 소개
 
 운동 루틴을 직접 짜는 것이 어려운 사람들을 위해 
 
 MBTI 검사처럼 당신에게 딱 맞는 운동 루틴을 짜주는 서비스!
 
-## GymPTI (짐BTI) : Team
+## 개발자들
 
 |               |           [Back-end](https://github.com/GymPTI/GymPTI-Server)            |             [Front-end](https://github.com/GymPTI/GymPTI-Web)            |                 [Android](https://github.com/GymPTI/GymPTI-Android)                 | [iOS](https://github.com/GymPTI/GymPTI-iOS) | [Design](https://www.figma.com/)  |
 |:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
