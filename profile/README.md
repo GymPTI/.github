@@ -6,7 +6,7 @@ MBTI 검사처럼 당신에게 딱 맞는 운동 루틴을 짜주는 서비스!
 
 ## 개발자들
 
-|               |           [Back-end](https://github.com/GymPTI/GymPTI-Server)            |             [Front-end](https://github.com/GymPTI/GymPTI-Web)            |                 [Android](https://github.com/GymPTI/GymPTI-Android)                 | [iOS](https://github.com/GymPTI/GymPTI-iOS) | [Design](https://www.figma.com/)  |
+|               |           [Back-end](https://github.com/GymPTI/GymPTI-Server)            |             [Front-end](https://github.com/GymPTI/GymPTI-Web)            |                 [Android](https://github.com/GymPTI/GymPTI-Android)                 | [iOS](https://github.com/GymPTI/GymPTI-iOS) | [Design]([https://www.figma.com/](https://www.figma.com/file/cYpikwjoLGef3sLm2iCqdO/%EC%A7%90BTI?type=design&node-id=558%3A160&mode=design&t=njdRvpdi7kcZsJOm-1))  |
 |:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
 |    People     |         김종윤 (Leader)          |             김언수              |                     조가연                     |                       이민규                        |   팀원 전부   |
 |    Skills     | SpringBoot, MySQL, AWS EC2 | React | Kotlin |        Swift, SwiftUI, Alamofire, TCA, LinkNavigator       |         |
